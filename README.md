@@ -1,38 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saraafp/saraafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sara! 👋
 
-Here are some ideas to get you started:
+### Computer Engineering Student | Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Sara! 👋
+*Learning, building, and growing one project at a time.*
 
-Computer Engineering Student | Aspiring Full Stack Developer
+</div>
 
-I'm a Computer Engineering student passionate about programming, web development, and learning new technologies.
+---
 
-I'm currently developing my skills in web development and exploring different technologies to build creative and functional projects.
+### 👩‍💻 About Me
 
-🌱 What I'm Working On
-Improving my front-end development skills
+- 🎓 Computer Engineering student
+- 💻 Interested in Web Development
+- 🌱 Currently learning React, TypeScript & Next.js
+- 🚀 Working on improving my development skills
+- ✨ Always curious about learning new technologies
 
-Learning modern web technologies
+### 🛠️ Tech Stack
 
-Building projects and gaining practical experience
+<div align="center">
 
-Exploring the world of Full Stack Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📫 Let's Connect!
+</div>
 
-I'm always interested in learning, building, and exploring new ideas.
+### 🌱 Currently Learning
 
-Thanks for visiting my profile! ✨
+- React
+- TypeScript
+- Next.js
+
+### 🎯 My Goals
+
+- Build creative and functional web projects
+- Improve my problem-solving skills
+- Become a Full Stack Developer
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 💜
+
+*Keep learning. Keep building.*
+
+</div>
